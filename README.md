@@ -1,4 +1,4 @@
-#N— Neural Option Pricing
+# VolSight — Neural Option Pricing
 
 LSTM volatility forecasting fused with analytical Black–Scholes to price European
 call options, benchmarked against a naive Black–Scholes baseline on synthetic
